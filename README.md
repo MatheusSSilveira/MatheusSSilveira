@@ -27,14 +27,14 @@ Eu sou o Matheus Silveira, sou um Programador Front End, atualmente estou aprend
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo"> 
   <br>
   <br>
-  <br>
 
-  <strong>Contato:</strong>
-  <br>
+<strong><h2>Contato:</h2></strong>  
   <a href="https://www.linkedin.com/in/matheus-soares-silveira-b8a22a224/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"></a>
   <br>
   <br>
   <br>
+
+<strong><h2>GitHub README Stats</h2></strong>
 
   [![Matheus Stats](https://github-readme-stats.vercel.app/api?username=MatheusSSilveira)](https://github.com/anuraghazra/github-readme-stats)
   <br>
